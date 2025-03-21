@@ -10,17 +10,23 @@
 <h3>About Me</h3>
 <p align="center"> I'm Kundan Rana, a passionate Data Science student at IIT Madras. I am health conscious person. I love exploring the world of AI, machine learning, and data science. My goal is to leverage data-driven solutions to solve real-world problems.</p>
 
+</div>
+
 ## 👨‍💻 About IIT Madras BS data science
 
 <p>The IIT Madras BS Degree in Data Science and Applications is a unique online program designed to provide students with a strong foundation in programming, statistics, machine learning, and data-driven decision-making. It is India's first online degree offered by an IIT and is structured to be flexible, allowing students from diverse backgrounds to enroll.</p>
 
-</div>
+
 
 ## 👋 Connect With Me
- <a href="https://kundanrana.me/portfolio/about.html">Website<img src="https://img.icons8.com/clouds/100/000000/domain.png" width="70" alt="Portfolio"></a><br>
- <a href="https://in.linkedin.com/in/kundanrana">Linkedin<img src="https://img.icons8.com/clouds/100/000000/linkedin.png" width="70" alt="LinkedIn"></a><br>
- <a href="mailto:kundanranahzb@gmail.com">Email<img src="https://img.icons8.com/clouds/100/000000/gmail.png" width="70" alt="Email"></a><br>
- <a href="https://www.instagram.com/kundan__rana">Instagram<img src="https://img.icons8.com/clouds/100/000000/Instagram.png" width="70" alt="Instagram"></a>
+ <img src="https://img.icons8.com/clouds/100/000000/domain.png" width="70" alt="Portfolio"><br>
+ <a href="https://kundanrana.me/portfolio/about.html">Website</a><br>
+ <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" width="70" alt="LinkedIn"><br>
+ <a href="https://in.linkedin.com/in/kundanrana">Linkedin</a><br>
+ <img src="https://img.icons8.com/clouds/100/000000/gmail.png" width="70" alt="Email"><br>
+ <a href="mailto:kundanranahzb@gmail.com">Email</a><br>
+ <img src="https://img.icons8.com/clouds/100/000000/instagram.png" width="70" alt="InstaGram"><br>
+ <a href="https://www.instagram.com/kundan__rana">Instagram</a><br>
 
 
 ## 👨‍💻 Know More About Me
